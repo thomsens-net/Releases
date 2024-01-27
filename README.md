@@ -20,4 +20,5 @@ You can use Principal Plan without a current license to create and edit files fo
 
 If your previous license expired before the new version's release date and you want to open files created over 60 days ago, you'll need to renew your license. You can check the license expiration date in Principal Plan's Help/About window to open older files with the new version.
 
+## Authorship and Distribution
 Principal Plan was created by Sam Thomsen and is licensed for distribution to [Blue Island Technology, Limited](https://www.bit.bm). If you need any help, please e-mail our team at [help@bit.bm](mailto:help@bit.bm)
